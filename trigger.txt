@@ -1,1 +1,1 @@
-casbin/casdoor-all-in-one:latest
+casbin/casdoor:latest
