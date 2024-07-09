@@ -1,1 +1,1 @@
-nginx:1.23-alpine
+casbin/casdoor-all-in-one:latest
