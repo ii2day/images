@@ -1,1 +1,1 @@
-oryd/kratos:latest
+oryd/mailslurper:latest-smtps
