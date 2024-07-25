@@ -1,1 +1,1 @@
-oryd/mailslurper:latest-smtps
+oryd/kratos-selfservice-ui-node:latest
