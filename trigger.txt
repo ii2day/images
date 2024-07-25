@@ -1,1 +1,1 @@
-ryd/kratos:latest
+oryd/kratos:latest
