@@ -1,1 +1,1 @@
-oryd/kratos-selfservice-ui-node:latest
+docker.io/library/golang:1.22.0
