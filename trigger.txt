@@ -1,1 +1,1 @@
-docker.io/library/ubuntu:22.10
+golangci/golangci-lint:v1.59.1
