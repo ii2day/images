@@ -1,1 +1,1 @@
-golangci/golangci-lint:v1.59.1
+aquasec/trivy:0.53.0
