@@ -1,1 +1,1 @@
-aquasec/trivy:0.53.0
+ghcr.io/aquasecurity/trivy-db:latest
