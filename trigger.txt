@@ -1,1 +1,1 @@
-kindest/node:v1.27.16
+kindest/node:v1.30.1
