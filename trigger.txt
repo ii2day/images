@@ -1,1 +1,1 @@
-kindest/node:v1.30.2
+istio/pilot:1.22.3
