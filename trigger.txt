@@ -1,1 +1,1 @@
-istio/proxyv2:1.22.3
+registry.k8s.io/ingress-nginx/controller:v1.11.1
