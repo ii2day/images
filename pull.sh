@@ -17,8 +17,8 @@ file=trigger.txt
 for line in `cat $file`
 do
     new_line="$PREFIX/$(replace_slash $line)"
+    echo $new_line | sed -e 's/\(.\)/\1 /g'
     echo $new_line
-
     docker pull $line
     docker tag $line $new_line
     docker push $new_line
