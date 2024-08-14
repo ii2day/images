@@ -1,1 +1,1 @@
-ubuntu/squid:latest
+langgenius/dify-web:0.6.15
