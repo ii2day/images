@@ -1,1 +1,1 @@
-semitechnologies/weaviate:1.19.0
+langgenius/dify-api:0.6.15
