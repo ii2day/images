@@ -1,1 +1,1 @@
-gcr.io/kaniko-project/executor:debug
+gcr.io/kaniko-project/executor:v1.23.2-debug
