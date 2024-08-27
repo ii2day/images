@@ -1,1 +1,1 @@
-gcr.io/kaniko-project/executor:v1.23.2-debug
+docker pull registry.gitlab.com/security-products/container-scanning/trivy:7
