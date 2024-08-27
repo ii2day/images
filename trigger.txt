@@ -1,1 +1,1 @@
-registry.gitlab.com/security-products/container-scanning/trivy:7
+registry.gitlab.com/security-products/container-scanning/trivy:6
