@@ -1,1 +1,1 @@
-registry.gitlab.com/security-products/container-scanning/trivy:6
+grafana/pyroscope:latest
