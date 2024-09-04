@@ -1,1 +1,1 @@
-ghcr.io/kdoctor-io/kdoctor-controller-base:890c16c0b57da17aefc5347e5f5e7e522e75d100
+fixl/anybadge
