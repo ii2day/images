@@ -1,1 +1,1 @@
-fixl/anybadge
+fixl/anybadge:1.14.0
