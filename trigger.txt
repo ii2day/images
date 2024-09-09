@@ -1,3 +1,4 @@
-docker.io/calico/cni:v3.28.0
-docker.io/calico/node:v3.28.0
-docker.io/calico/kube-controllers:v3.28.0
+busybox:1.28
+docker.io/curlimages/curl
+docker.io/istio/pilot:1.22.1
+docker.io/istio/proxyv2:1.22.1
