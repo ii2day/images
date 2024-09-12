@@ -1,1 +1,1 @@
-/kubeflownotebookswg/jupyter-tensorflow-full:latest
+kubeflownotebookswg/jupyter-tensorflow-full:latest
