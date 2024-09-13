@@ -1,1 +1,1 @@
-kubeflownotebookswg/jupyter-tensorflow-full:v1.6.0
+docker.io/misohu/kubeflow-training:latest
