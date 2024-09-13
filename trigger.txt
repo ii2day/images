@@ -1,1 +1,1 @@
-jupyter-tensorflow-full:v1.6.0
+kubeflownotebookswg/jupyter-tensorflow-full:v1.6.0
