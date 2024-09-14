@@ -1,1 +1,1 @@
-gcr.io/ml-pipeline/argoexec:v3.4.16-license-compliance
+docker.io/kubeflowkatib/kubeflow-pipelines-launcher
