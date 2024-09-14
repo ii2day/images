@@ -1,1 +1,1 @@
-docker.io/kubeflowkatib/kubeflow-pipelines-launcher
+nikenano/launchernew:latest
