@@ -1,1 +1,1 @@
-bitnamicharts/mlflow:latest
+bitnami/mlflow
