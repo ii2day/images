@@ -1,1 +1,1 @@
-bitnami/mlflow
+ubuntu/mlflow:2.1.1_1.0-22.04
