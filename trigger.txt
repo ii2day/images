@@ -1,1 +1,1 @@
-docker.io/tensorflow/tensorflow:2.10.0
+mlflow/mlflow:latest
