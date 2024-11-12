@@ -1,1 +1,1 @@
-kserve/huggingfaceserver:latest
+kserve/vllmserver:latest
