@@ -1,1 +1,1 @@
-kserve/vllmserver:latest
+ghcr.io/cloudtty/cloudshell-operator:v0.7.9
