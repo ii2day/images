@@ -1,1 +1,1 @@
-langgenius/dify-web:0.12.1
+apachepulsar/pulsar-manager:v1.0.0
