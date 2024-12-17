@@ -1,1 +1,1 @@
-apachepulsar/pulsar-manager:v1.0.0
+vllm/vllm-openai:latest
