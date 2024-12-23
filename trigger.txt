@@ -1,1 +1,1 @@
-vllm/vllm-openai:latest
+docker.io/bitnami/valkey:8.0.1-debian-12-r1
