@@ -1,1 +1,1 @@
-nvidia/cuda:12.4.1-cudnn-devel-ubuntu20.04
+deeplythink/vllm:master-12.4.1
