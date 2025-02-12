@@ -1,2 +1,1 @@
-vllm/vllm-openai:v0.6.3
-vllm/vllm-openai:v0.5.3
+nvidia/cuda:12.4.1-cudnn-devel-ubuntu20.04
