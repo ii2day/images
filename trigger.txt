@@ -1,1 +1,1 @@
-deeplythink/vllm:master-12.4.1
+lmsysorg/sglang:latest
