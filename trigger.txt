@@ -6,3 +6,4 @@ aibrix/gateway-plugins:v0.2.0
 aibrix/controller-manager:v0.2.0
 aibrix/runtime:v0.2.0
 aibrix/kvcache:20241120
+aibrix/kuberay-operator:v1.2.1-patch
