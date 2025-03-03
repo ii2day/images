@@ -1,9 +1,1 @@
-envoyproxy/gateway:v1.1.0
-redis:latest
-busybox:stable
-aibrix/metadata-service:v0.2.0
-aibrix/gateway-plugins:v0.2.0
-aibrix/controller-manager:v0.2.0
-aibrix/runtime:v0.2.0
-aibrix/kvcache:20241120
-aibrix/kuberay-operator:v1.2.1-patch
+aibrix-container-registry-cn-beijing.cr.volces.com/aibrix/vllm-openai:v0.7.3.self.post1
