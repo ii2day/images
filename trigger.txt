@@ -1,1 +1,1 @@
-envoyproxy/gateway-dev:latest
+aibrix/gateway-plugins:c73e0631241ed10c5a74354b7a2e843e478b9e58
