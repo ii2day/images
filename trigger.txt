@@ -1,1 +1,1 @@
-aibrix-container-registry-cn-beijing.cr.volces.com/aibrix/vllm-openai:v0.7.3.self.post1
+envoyproxy/envoy:distroless-v1.31.0
