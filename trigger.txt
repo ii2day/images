@@ -1,1 +1,3 @@
-aibrix/vineyardd:20241120
+aibrix/controller-manager:nightly
+aibrix/gateway-plugins:nightly
+aibrix/metadata-service:nightly
