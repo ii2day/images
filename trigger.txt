@@ -1,1 +1,1 @@
-ghcr.io/open-webui/pipelines:main
+google/apparmor-loader:latest
