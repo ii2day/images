@@ -1,1 +1,1 @@
-multiarch/qemu-user-static:register
+ubuntu:22.04
