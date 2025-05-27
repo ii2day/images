@@ -1,1 +1,1 @@
-ubuntu:22.04
+activeeon/tensorboard:latest
