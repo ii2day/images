@@ -1,2 +1,2 @@
-ghcr.io/llm-d/llm-d-model-service:0.0.15
+ghcr.io/llm-d/llm-d-model-service:v0.0.15
 docker.io/istio/proxyv2:1.26.1
