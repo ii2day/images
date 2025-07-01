@@ -1,1 +1,1 @@
-cr.kgateway.dev/kgateway-dev/kgateway:v2.0.2
+us-central1-docker.pkg.dev/k8s-staging-images/gateway-api-inference-extension/epp:main
