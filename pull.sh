@@ -19,8 +19,8 @@ do
     new_line="$PREFIX/$(replace_slash $line)"
     echo $new_line | sed -e 's/\(.\)/\1 /g'
 
-    docker pull --platform=linux/amd64 $line 
+    docker pull  $line 
     docker tag $line $new_line
-    docker push --platform=linux/amd64 $new_line 
+    docker push  $new_line 
 
 done
