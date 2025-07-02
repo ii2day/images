@@ -1,1 +1,1 @@
-gcr.io/solo-test-236622/ext-proc-example-basic-sink:0.0.2
+ubuntu:22.04
