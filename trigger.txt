@@ -1,1 +1,1 @@
-ubuntu:22.04
+registry.k8s.io/lws/lws:v0.6.2
