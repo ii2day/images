@@ -1,1 +1,1 @@
-registry.k8s.io/lws/lws:v0.6.2
+us-central1-docker.pkg.dev/k8s-staging-images/gateway-api-inference-extension/bbr:main
