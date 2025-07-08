@@ -1,1 +1,1 @@
-us-central1-docker.pkg.dev/k8s-staging-images/gateway-api-inference-extension/bbr:main
+ghcr.io/baizeai/dataset-data-loader:latest
