@@ -20,7 +20,9 @@ do
     echo $new_line | sed -e 's/\(.\)/\1 /g'
 
     docker pull  $line 
-    docker tag $line $new_line
-    docker push  $new_line 
+    # docker tag $line $new_line
+    docker tag $line registry.cn-hangzhou.aliyuncs.com/ii2day-1/bbr:main
+    # docker push  $new_line 
+    docker push registry.cn-hangzhou.aliyuncs.com/ii2day-1/bbr:main
 
 done
