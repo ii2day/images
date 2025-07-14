@@ -1,1 +1,1 @@
-ghcr.io/ii2day/dataset-data-loader:latest
+ghcr.io/baizeai/dataset-data-loader:latest
