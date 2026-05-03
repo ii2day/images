@@ -1,1 +1,1 @@
-ghcr.io/berriai/litellm:v1.83.14-stable
+ghcr.io/berriai/litellm-database:v1.83.14-stable
