@@ -1,1 +1,1 @@
-ghcr.io/berriai/litellm-database:v1.83.14-stable
+vllm/vllm-openai:v0.20.1-cu129
