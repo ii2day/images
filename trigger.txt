@@ -1,1 +1,1 @@
-vllm/vllm-openai:v0.20.2-cu129
+quay.io/ascend/vllm-ascend:v0.19.1rc1
