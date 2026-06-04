@@ -1,1 +1,1 @@
-vllm/vllm-openai:v0.22.0
+lmsysorg/sglang:v0.5.12.post1-cu130
