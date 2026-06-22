@@ -1,2 +1,1 @@
-vllm/vllm-openai:v0.23.0
-vllm/vllm-openai:v0.23.0-cu129
+docker pull lmsysorg/sglang:v0.5.13.post1-cu129
