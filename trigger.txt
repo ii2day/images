@@ -1,2 +1,2 @@
-vllm/vllm-openai:v0.25.0
-vllm/vllm-openai:v0.25.0-cu129
+sglang:v0.5.15-cu130
+sglang:v0.5.15-cu129
