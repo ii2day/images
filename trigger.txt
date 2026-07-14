@@ -1,2 +1,2 @@
-sglang:v0.5.15-cu130
-sglang:v0.5.15-cu129
+lmsysorg/sglang:v0.5.15-cu129
+lmsysorg/sglang:v0.5.15-cu130
