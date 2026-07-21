@@ -1,2 +1,1 @@
-lmcache/standalone:v0.5.1-cu129
-lmcache/standalone:v0.5.1-cu130
+lmcache/standalone:v0.5.0-cu130
